@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tom116458
+- 👀 I’m interested in frontend, game development. 
+- 🌱 I’m currently learning React, TypeScript
+- 💞️ I’m looking to collaborate on people's who likes exploring. 
+- 📫 How to reach me Email: tom116458@outlook.com
+- Recent project: CSCI 340 Harambe, CSCI 499 SPLAT, a little escape game. 
